@@ -2,7 +2,7 @@
 
 The React-Weather App is a simple web application built with React and Vite that allows users to search for weather information by city name. It leverages the OpenWeatherMap API to fetch real-time weather data.
 
-![Weather App Screenshot](src/assests/weather_app_screenshot.png)
+![Weather App Screenshot](src/assests/weather_app_screenshot.PNG)
 
 ## Features
 
