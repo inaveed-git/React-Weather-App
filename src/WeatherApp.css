@@ -1,0 +1,24 @@
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    overflow: auto;
+    background-color: #f0f4f8;
+    ;
+}
+
+.search-weather-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    overflow: auto;
+}
+
+@media (min-width: 768px) {
+    .search-weather-container {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
